@@ -1,4 +1,4 @@
 <img src="https://raw.githubusercontent.com/mollys-uzbekistan/.github/master/profile/section.jpg"/>
 <hr/>
 <h1 align="center">Mollys Marketplace</h1>
-<p align="center">We love to shop</p>
+<p align="center">Molly's Group is a technology organization that specializes in building SaaS (Software as a Service) products for the eCommerce industry. Their mission is to empower businesses of all sizes to succeed in the digital economy by providing them with cutting-edge tools and platforms to manage and grow their online sales. From eCommerce platforms and inventory management systems to payment gateways and analytics, Molly's Group offers a wide range of solutions to help businesses streamline their operations and increase their revenue. The company is known for its innovative approach and customer-centric mindset, which enables them to deliver products that meet the unique needs of each client. With a team of experienced developers and industry experts, Molly's Group is committed to helping businesses thrive in the ever-evolving eCommerce landscape.</p>
