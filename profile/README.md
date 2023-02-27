@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/mollys-uzbekistan/.github/master/profile/section.jpg"/>
+<img src="https://github.com/mollys-uzbekistan/.github/blob/master/profile/Header.png"/>
 <hr/>
-<h1 align="center">Mollys Marketplace</h1>
-<p align="center">Molly's Group is a technology organization that specializes in building SaaS (Software as a Service) products for the eCommerce industry. Their mission is to empower businesses of all sizes to succeed in the digital economy by providing them with cutting-edge tools and platforms to manage and grow their online sales. From eCommerce platforms and inventory management systems to payment gateways and analytics, Molly's Group offers a wide range of solutions to help businesses streamline their operations and increase their revenue. The company is known for its innovative approach and customer-centric mindset, which enables them to deliver products that meet the unique needs of each client. With a team of experienced developers and industry experts, Molly's Group is committed to helping businesses thrive in the ever-evolving eCommerce landscape.</p>
+<h1>We Are Optochka Inc.</h1>
+<p>Open Source Note for Optochka Inc.
+<br/>
+At Optochka Inc., we believe in the power of collaboration and community-driven development. We are committed to supporting the open source community and contributing to its growth. As such, we make use of open source software in our products and also contribute back to the community by releasing some of our own software as open source.
+<br/>
+We acknowledge the contributions of the open source community and are committed to complying with open source licensing terms. We encourage others to make use of our open source software and contribute back to the community as well.
+<br/>
+We believe in creating a transparent and collaborative environment, and our use and contribution to open source is a testament to that. We will continue to support the open source community and strive to create innovative solutions in collaboration with the community.</p>
