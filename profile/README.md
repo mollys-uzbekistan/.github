@@ -1,4 +1,6 @@
-<img src="https://github.com/mollys-uzbekistan/.github/blob/master/profile/Header.png"/>
+![Header](https://github.com/optochka/.github/assets/91214940/612b7002-f5ae-4f21-a5bd-f366776b52b2)
+
+
 <hr/>
 <h1>We Are Optochka Inc.</h1>
 <p>Open Source Note for Optochka Inc.
